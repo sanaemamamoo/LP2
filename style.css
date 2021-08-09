@@ -342,7 +342,7 @@ img {
 .top-container::after {
   content: "";
   position: absolute;
-  background: url(../img/top.png) no-repeat center center/contain;
+  background: url(https://github.com/sanaemamamoo/LP2/blob/main/top.png?raw=true) no-repeat center center/contain;
   width: 515px;
   height: 515px;
   top: -86px;
@@ -585,7 +585,7 @@ section {
 .feature-item1::after {
   content: "";
   position: absolute;
-  background: url(../img/feature1.png) no-repeat center center/contain;
+  background: url(https://github.com/sanaemamamoo/LP2/blob/main/feature1.png?raw=true) no-repeat center center/contain;
   width: 520px;
   height: 520px;
   bottom: 0;
@@ -631,7 +631,7 @@ section {
 .feature-item2::after {
   content: "";
   position: absolute;
-  background: url(../img/feature2.png) no-repeat center center/contain;
+  background: url(https://github.com/sanaemamamoo/LP2/blob/main/feature2.png?raw=true) no-repeat center center/contain;
   width: 520px;
   height: 520px;
   top: 25px;
@@ -663,7 +663,7 @@ section {
 .feature-item3::after {
   content: "";
   position: absolute;
-  background: url(../img/feature3.png) no-repeat center center/contain;
+  background: url(https://github.com/sanaemamamoo/LP2/blob/main/feature3.png?raw=true) no-repeat center center/contain;
   width: 520px;
   height: 520px;
   bottom: 7px;
